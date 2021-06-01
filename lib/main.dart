@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'models/image_model.dart';
-import 'view/list_of_images.dart';
+// import 'view/list_of_images.dart';
 
 void main() {
   runApp(Myapp());
@@ -22,7 +22,7 @@ class _MyappState extends State<Myapp> {
   @override
   void initState() {
     super.initState();
-    fetchImages();
+    // fetchImages();
   }
 
   void fetchImages() async {
