@@ -7,7 +7,11 @@ packages:
       name: async
       url: "https://pub.flutter-io.cn"
     source: hosted
+<<<<<<< HEAD
     version: "2.8.1"
+=======
+    version: "2.6.1"
+>>>>>>> 6de00ebbda8e76f5426f8a887cebbb0de7b6fbe2
   boolean_selector:
     dependency: transitive
     description:
@@ -148,7 +152,11 @@ packages:
       name: test_api
       url: "https://pub.flutter-io.cn"
     source: hosted
+<<<<<<< HEAD
     version: "0.4.2"
+=======
+    version: "0.3.0"
+>>>>>>> 6de00ebbda8e76f5426f8a887cebbb0de7b6fbe2
   typed_data:
     dependency: transitive
     description:
